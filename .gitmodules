@@ -1,0 +1,6 @@
+[submodule "Tasmota-firmware"]
+	path = Tasmota-firmware
+	url = git@github.com:refactorau/Tasmota-firmware.git
+[submodule "Tasmota"]
+	path = Tasmota
+	url = git@github.com:refactorau/Tasmota.git
